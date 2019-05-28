@@ -5,10 +5,10 @@
         <!-- <link rel="html" href='about.familyhtml'> -->  
      </head>
      <body>
-         <img class="background" src='./images/blue.jpg'
+         <img class="background" src='./images/blue.jpg'>
+         <h1 class ="title-page"> The DeReamer Family</h1>
+         </body>
 
 
 
 
-     </body>
-</html>
