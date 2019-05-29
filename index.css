@@ -25,3 +25,7 @@ body {
     border-radius: 10px;
    
   }
+  .list-box {
+    width: 40%;
+    margin: auto;
+  }
